@@ -25,3 +25,17 @@ Most common vowel: 'E'
 Last word used with most common vowel: higher
 ********************************************** 
 
+********************************************** 
+Logged on: 12/13/2020 03:39 PM
+File Used: alice.txt
+Vowel Count: 
+E appears 788 times.
+O appears 530 times.
+A appears 529 times.
+I appears 417 times.
+U appears 194 times.
+Y appears 124 times.
+Most common vowel: 'E'
+Last word used with most common vowel: finished
+********************************************** 
+

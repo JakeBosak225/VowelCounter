@@ -1,0 +1,27 @@
+********************************************** 
+Logged on: 12/12/2020 04:32 PM
+File Used: passage.txt
+Vowel Count: 
+E appears 264 times.
+A appears 185 times.
+O appears 177 times.
+I appears 167 times.
+U appears 73 times.
+Most common vowel: 'E'
+Last word used with most common vowel: higher
+********************************************** 
+
+********************************************** 
+Logged on: 12/13/2020 02:54 PM
+File Used: passage.txt
+Vowel Count: 
+E appears 264 times.
+A appears 185 times.
+O appears 177 times.
+I appears 167 times.
+U appears 73 times.
+Y appears 42 times.
+Most common vowel: 'E'
+Last word used with most common vowel: higher
+********************************************** 
+
